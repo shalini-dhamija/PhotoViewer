@@ -1,0 +1,22 @@
+.test{
+    background-color: red;
+}
+
+.topImage img{
+    width:100%;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    gap: 10px;
+    padding: 10px;
+}
+ .gridItem{
+    width:100%;
+ }
+
+.thumbNailImage{
+    width: 100%;  
+    padding: 0%;
+}
