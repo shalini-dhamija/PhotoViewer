@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 
 export function App() {
-  const [imageURL, setImageURL] = useState('https://picsum.photos/id/600/1600/900.jpg');
+  const [imageURL, setImageURL] = useState('');
      
   return (
     <div>      
