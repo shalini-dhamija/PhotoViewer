@@ -2,8 +2,7 @@
   "name": "photoviewer",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
-  "home": "http://shalini-dhamija.github.io/PhotoViewer",
+  "type": "module",  
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
